@@ -21,6 +21,6 @@ class Dog
   end
   
   def self.clear_all
-    @@all.length = 0
+    @@all.clear
   end
 end
