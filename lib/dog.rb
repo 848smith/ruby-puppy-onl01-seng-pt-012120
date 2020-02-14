@@ -17,7 +17,6 @@ class Dog
   
   def self.print_all
     @@all.split
-    end
   end
   
   def self.clear_all
